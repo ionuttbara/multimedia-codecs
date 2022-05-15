@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AC3Filter_is1]
+"SystemComponent"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Ext2Fsd_is1]
+"SystemComponent"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{DD0DDC9E-2ED4-44DD-B461-0EFC126813A0}]
+"SystemComponent"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{BE967F90-A197-4CF9-9F76-254EE1F0A44A}]
+"SystemComponent"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{D064F16E-88DA-4E8F-BBAE-0E2AA9A6AE61}]
+"SystemComponent"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{0B7FDDF4-23B5-4119-A91A-EC01718DFDC8}_is1]
+"SystemComponent"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{A339200B-21F9-4F47-BE9B-0C23CC77A68D}]
+"SystemComponent"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\RealMedia Splitter_is1]
+"SystemComponent"=dword:00000001
