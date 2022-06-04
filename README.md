@@ -7,7 +7,7 @@ Includes compatibility and support with ALL KNOWN media formats (audio, image, v
 
 I've selected necessary components for media encoding, decoding and mounting of File Systems.
 
-<continue is coming soon>
+continue is coming soon
 
 
 
